@@ -2,5 +2,5 @@
 machine learning eng course
 
 
-* make some changes here 
-* edit the readme file 
+* include the `github` assignment
+* include the `unix` assignment in `nb`
